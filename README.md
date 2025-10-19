@@ -12,7 +12,9 @@ This project demonstrates how I plan, organize, and simulate a working data pipe
 - Focuses on data organization, transformation, and dashboard planning  
 
 ---
-## System Design
+
+## System Design  
+
 ```
 [ EV Chargers / Simulated Data ]
           ↓
@@ -28,7 +30,8 @@ This project demonstrates how I plan, organize, and simulate a working data pipe
      Visualization
    (Power BI / Tableau mockups)
 ```
-The system is designed conceptually and can be extended to real datasets later.
+
+The system is designed conceptually and can be extended to real datasets later.  
 
 ---
 
@@ -53,7 +56,7 @@ Planned dashboards (Power BI/Tableau):
 - Add open EV datasets for testing  
 - Try Spark Streaming or scheduled batch updates  
 - Host dashboards in the cloud (BigQuery / Looker)  
-- Interactive filters (by station, day, season)  
+- Add interactive filters (by station, day, season)  
 
 ---
 
@@ -65,9 +68,8 @@ Planned dashboards (Power BI/Tableau):
 
 ---
 
-## Author  
+## 👩🏽‍💻 Author  
 **Doreen Tumuhairwe** — M.S. Data Science, University of the Pacific (Stockton, CA)  
-📍 San Leandro, California •  doreentumuhairwe143@gmail.com  
+📍 San Leandro, California  
+📧 doreentumuhairwe143@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dtumuhairwe)
-
-

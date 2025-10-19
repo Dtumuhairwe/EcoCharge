@@ -28,4 +28,46 @@ This project demonstrates how I plan, organize, and simulate a working data pipe
      Visualization
    (Power BI / Tableau mockups)
 ```
+The system is designed conceptually and can be extended to real datasets later.
+
+---
+
+## Tools and Technologies  
+**Programming:** Python, SQL  
+**Libraries:** Pandas, NumPy, Scikit-learn (concept)  
+**Big Data (concepts):** Apache Spark, Hadoop  
+**Visualization:** Power BI, Tableau  
+**Cloud (concepts):** Google Cloud, Azure  
+
+---
+
+## Results (Concept Demonstration)  
+Planned dashboards (Power BI/Tableau):  
+- Energy use by hour/location  
+- Forecasted vs. actual demand (regression)  
+- Station efficiency & sustainability trends  
+
+---
+
+## Future Expansion  
+- Add open EV datasets for testing  
+- Try Spark Streaming or scheduled batch updates  
+- Host dashboards in the cloud (BigQuery / Looker)  
+- Interactive filters (by station, day, season)  
+
+---
+
+## What I Learned  
+- Architecting an end-to-end data flow  
+- Cleaning/transforming data for analysis  
+- How Spark/cloud tools fit modern analytics  
+- Communicating insights with dashboards  
+
+---
+
+## Author  
+**Doreen Tumuhairwe** — M.S. Data Science, University of the Pacific (Stockton, CA)  
+📍 San Leandro, California •  doreentumuhairwe143@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dtumuhairwe)
+
 
